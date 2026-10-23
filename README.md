@@ -98,7 +98,7 @@ Across **386 published packages** in the [claude-code-plugins](https://www.npmjs
 | 9   | [`@intentsolutionsio/clickhouse-pack`](https://www.npmjs.com/package/@intentsolutionsio/clickhouse-pack)                 |      198 |
 | 10  | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor) |      188 |
 
-<sub>Last refreshed 2026-10-22T01:25:23.003Z.</sub>
+<sub>Last refreshed 2026-10-23T01:28:24.829Z.</sub>
 
 <!-- NPM-STATS:END -->
 
